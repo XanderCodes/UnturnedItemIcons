@@ -1,0 +1,3 @@
+# CD into the directory. This will remove everything before the LAST underscore, including said underscore. Unturned names the icon file This_Item_123.png, with the number at the end being the Item ID. This renames the file to only the ID, to make it easier to access with a script.
+
+for x in *_*; do mv "$x" "${x/*_/}"; done
