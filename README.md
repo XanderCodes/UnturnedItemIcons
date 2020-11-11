@@ -1,4 +1,4 @@
-# Unturned Item Icons
+# Unturned Item Icons [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg)
 A collection of squared and renamed icons from the game Unturned. For use with automated scripts and plugins.
 
 This icon set was pulled from the Unturned/Extras/Icons folder, and run through a set of scripts to square the images (e.g. take a 500x350 image and make it 500x500) and to rename them to only contain their ID's (Such as renaming "Medkit_15.png" to just "15.png". This allows the raw image paths to be used by scripts and more notably, server plugins, but just calling the image URL, inserting the ID number, such as *https://raw.githubusercontent.com/XanderCodes/UnturnedItemIcons/master/1000%20plus/ID.png*
