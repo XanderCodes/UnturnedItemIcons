@@ -1,3 +1,8 @@
+# DEPRECATED
+When I created this repo, I did so as part of an experiment, but as I am personally no longer using this for anything, I am offcially marking it as depercated. I might re-visit the project in future if need be though.
+
+Feel free to keep using this repo for whatever you need, but note that I will no longer update it, and I recently realised it's missing alot of icons anyway.
+
 # Unturned Item Icons [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg)
 A collection of squared and renamed icons from the game Unturned. For use with automated scripts and plugins.
 
